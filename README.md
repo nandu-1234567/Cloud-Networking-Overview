@@ -30,4 +30,19 @@ Protocols :
        * SNMP
        * DHCP
        * ICMP
- 
+
+ IP Address :
+   * Definition
+   * Types of Ip addresses
+      * By Version
+        1. IPV4
+        2. IPV6
+      * By Scope
+        1. Private Ip address
+        2. Public Ip address
+       * By Assignment
+        1. Dynamic Ip address
+        2. Static Ip address
+       * By Usage for Website
+        1. Shared Ip address
+        2. Dedicated Ip address
