@@ -47,3 +47,9 @@ Protocols :
         1. Shared Ip address
         2. Dedicated Ip address
     * Ip Address security
+
+Subnetting :
+ * Definition
+ * How subnetting works?
+ * Advantages
+ * Subnetting Table
