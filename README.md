@@ -53,3 +53,7 @@ Subnetting :
  * How subnetting works?
  * Advantages
  * Subnetting Table
+Network ID
+ * Definition
+ * How Network ID works with IPV4
+ * EXample
