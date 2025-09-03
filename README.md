@@ -86,8 +86,8 @@ Broadcast ID :
 
  
   Network Address Translation (NAT) :
-    * How NAT works?
-    * Types of NAT
+    *  How NAT works?
+    *  Types of NAT
       1. Static NAT
       2. Dynamic NAT
       3. NAT Overload
