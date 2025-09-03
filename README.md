@@ -53,6 +53,7 @@ Subnetting :
  * How subnetting works?
  * Advantages
  * Subnetting Table
+
 Network ID
  * Definition
  * How Network ID works with IPV4
@@ -64,3 +65,22 @@ Broadcast ID :
  * IPV4 broadcast addresses
     1. Directed Broadcast address
     2. Limited Broadcast address
+  
+  Routers :
+   * Definition
+   * Types of Routers
+   * Types of Routers :
+     1. Home and small office routers
+        a.	Wireless routers
+        b.	Wired routers
+        c. Broadband routers
+     2. Enterprise-level routers
+        a. Core routers
+        b. Distribution routers
+        c. Access routers
+     3. Specialized routers
+        a. VPN routers
+        b. virtual routers
+        c. Modular routers
+        d. Portable routers
+
