@@ -93,4 +93,8 @@ Broadcast ID :
       3. NAT Overload
       4. Carrier-Grade NAT
      
-     
+  Domain Name System :
+    * Defintion
+    * How DNS Works?
+    * Common types of DNS Records
+    * DNS Hierarchy
