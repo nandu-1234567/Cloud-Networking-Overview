@@ -57,3 +57,10 @@ Network ID
  * Definition
  * How Network ID works with IPV4
  * EXample
+
+Broadcast ID :
+ * Definition
+ * How broadcast Id are used?
+ * IPV4 broadcast addresses
+    1. Directed Broadcast address
+    2. Limited Broadcast address
