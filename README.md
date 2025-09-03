@@ -84,6 +84,7 @@ Broadcast ID :
         c. Modular routers
         d. Portable routers
 
+ 
   Network Address Translation (NAT) :
     * How NAT works?
     * Types of NAT
